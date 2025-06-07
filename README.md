@@ -12,7 +12,7 @@ Sou desenvolvedor com foco em aplicações web e APIs REST usando **Python**, **
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hclaudino&show_icons=true&theme=tokyonight&count_private=true"/>
 
 ### 🧠 Linguagens e Tecnologias
 
@@ -29,7 +29,7 @@ Sou desenvolvedor com foco em aplicações web e APIs REST usando **Python**, **
 
 ### 📈 Linguagens mais usadas
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hclaudino&layout=compact&theme=tokyonight"/>
 
 ---
 
