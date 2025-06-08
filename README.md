@@ -1,10 +1,4 @@
 <div align="center">
-
-# **Transformando desafios em soluções inteligentes com código limpo e tecnologia de ponta.**
-
-</div>
-
-<div align="center">
   
 # 👋 Olá, eu sou o Henrique Claudino
 
@@ -19,9 +13,8 @@
 
 ## 🚀 Sobre mim
 
-- 💻 Desenvolvedor com experiência em **Python**, **Django**, **Django Frameworkd**, **HTML**, **CSS**, **PostgreSQL** e **MySQL**
-- ☁️ Conhecimento prático em **AWS**, **Ubuntu** e integração com APIs modernas como **Evolution API**, **OpenAI** e **Gemini**
-- 🔍 Focado em entregar soluções de qualidade com performance, organização e escalabilidade
+- 💻 Desenvolvedor com experiência em **Python**, **Django**, **HTML**, **CSS** e **PostgreSQL**
+- 🔍 Focado em entregar soluções de qualidade com performance e organização
 - 📚 Aprendizado contínuo em boas práticas, versionamento e arquitetura de software
 - 🤝 Aberto a novas oportunidades e colaborações em projetos tech
 
@@ -34,13 +27,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="45" title="Django"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" title="PostgreSQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" title="AWS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="45" title="Ubuntu"/>
 
 </div>
 
